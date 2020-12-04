@@ -5,8 +5,9 @@ Welcome Guys! This repo consists of my code for Meals App made using Flutter, wh
 - Use of Basic Flutter Widgets
 - Use of widgets like Row, Column, ListView etc
 - Theming the App
-- Using 3rd Party Packages
-- Images
+- Use of Navigation Widgets such as Drawer, TabBar, BottomNavigationVar, etc
+- Pushing & Popping Pages for Navigation
+- Included features like Filtering of Recipes, Marking recipes as Favorite, etc
   
 
 ![Image 1](./assets/images/1.png)
